@@ -20,4 +20,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
