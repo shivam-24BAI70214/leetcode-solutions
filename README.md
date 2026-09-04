@@ -9,6 +9,7 @@ My LeetCode solutions
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +27,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
