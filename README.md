@@ -28,6 +28,7 @@ My LeetCode solutions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Prefix Sum
 |  |
@@ -42,4 +43,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
