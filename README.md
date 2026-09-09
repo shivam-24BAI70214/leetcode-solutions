@@ -7,6 +7,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -54,4 +55,16 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
