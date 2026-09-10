@@ -8,6 +8,7 @@ My LeetCode solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -16,6 +17,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3870-count-commas-in-range](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -23,6 +25,7 @@ My LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
