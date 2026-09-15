@@ -46,6 +46,7 @@ My LeetCode solutions
 | [0021-merge-two-sorted-lists](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Prefix Sum
@@ -74,6 +75,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
