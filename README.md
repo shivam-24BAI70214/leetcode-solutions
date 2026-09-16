@@ -22,6 +22,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -147,4 +148,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
