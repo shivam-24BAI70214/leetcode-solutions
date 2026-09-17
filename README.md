@@ -8,6 +8,7 @@ My LeetCode solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
@@ -164,5 +165,10 @@ My LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
