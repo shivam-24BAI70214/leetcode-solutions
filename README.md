@@ -13,6 +13,7 @@ My LeetCode solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -171,4 +172,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
