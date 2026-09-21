@@ -27,6 +27,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -160,11 +161,13 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
@@ -174,6 +177,7 @@ My LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 ## Backtracking
