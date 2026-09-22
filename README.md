@@ -28,6 +28,7 @@ My LeetCode solutions
 | ------- |
 | [0050-powx-n](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -162,6 +163,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
