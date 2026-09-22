@@ -86,6 +86,7 @@ My LeetCode solutions
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@ My LeetCode solutions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -167,6 +169,7 @@ My LeetCode solutions
 | [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
