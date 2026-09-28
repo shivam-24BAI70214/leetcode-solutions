@@ -108,6 +108,7 @@ My LeetCode solutions
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,6 +180,7 @@ My LeetCode solutions
 | [0171-excel-sheet-column-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -210,4 +212,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
