@@ -30,6 +30,7 @@ My LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -61,6 +62,7 @@ My LeetCode solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -99,6 +101,7 @@ My LeetCode solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0206-reverse-linked-list) |
