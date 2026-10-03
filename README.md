@@ -112,6 +112,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -171,6 +172,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -184,6 +186,7 @@ My LeetCode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -227,5 +230,6 @@ My LeetCode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
