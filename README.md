@@ -91,6 +91,7 @@ My LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -173,6 +174,7 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +188,7 @@ My LeetCode solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
@@ -239,4 +242,8 @@ My LeetCode solutions
 | [0856-score-of-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
