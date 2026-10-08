@@ -118,6 +118,7 @@ My LeetCode solutions
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -199,6 +200,7 @@ My LeetCode solutions
 | [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -241,6 +243,7 @@ My LeetCode solutions
 | [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
