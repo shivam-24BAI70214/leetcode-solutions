@@ -6,6 +6,7 @@ My LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
@@ -131,6 +132,7 @@ My LeetCode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
