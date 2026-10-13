@@ -32,6 +32,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -133,6 +134,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -192,6 +194,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
