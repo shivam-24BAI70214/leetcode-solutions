@@ -11,6 +11,7 @@ My LeetCode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -206,6 +207,7 @@ My LeetCode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -237,6 +239,7 @@ My LeetCode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,4 +280,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
