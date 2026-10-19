@@ -9,6 +9,7 @@ My LeetCode solutions
 | [0001-two-sum](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
@@ -54,6 +55,7 @@ My LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -141,6 +143,7 @@ My LeetCode solutions
 | [0001-two-sum](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -206,6 +209,7 @@ My LeetCode solutions
 | [0022-generate-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
