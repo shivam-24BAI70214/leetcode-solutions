@@ -24,6 +24,7 @@ My LeetCode solutions
 | [0643-maximum-average-subarray-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -152,6 +153,7 @@ My LeetCode solutions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
