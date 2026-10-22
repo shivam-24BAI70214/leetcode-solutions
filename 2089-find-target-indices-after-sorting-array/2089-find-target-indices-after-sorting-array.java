@@ -1,14 +1,18 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
+        int count=0;
+        int frequency=0;
+        for(int num:nums){
+            if(num<target){
+                count++;
+            }
+            else if(num==target){
+                frequency++;
+            }
+        }
         List<Integer> idx=new ArrayList<>();
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==target){
-                idx.add(i);
-            }
-            else{
-                continue;
-            }
+        for(int i=0;i<frequency;i++){
+            idx.add(count+i);
         }
         return idx;
     }
