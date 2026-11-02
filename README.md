@@ -21,6 +21,7 @@ My LeetCode solutions
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -49,6 +50,7 @@ My LeetCode solutions
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -67,6 +69,7 @@ My LeetCode solutions
 | [0075-sort-colors](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
