@@ -27,6 +27,7 @@ My LeetCode solutions
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -123,6 +124,7 @@ My LeetCode solutions
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Recursion
 |  |
 | ------- |
@@ -163,11 +165,13 @@ My LeetCode solutions
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
