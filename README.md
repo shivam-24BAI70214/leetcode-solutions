@@ -25,6 +25,7 @@ My LeetCode solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -75,6 +76,7 @@ My LeetCode solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -105,6 +107,7 @@ My LeetCode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -124,6 +127,7 @@ My LeetCode solutions
 | [0234-palindrome-linked-list](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Recursion
 |  |
