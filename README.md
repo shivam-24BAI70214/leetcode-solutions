@@ -31,6 +31,7 @@ My LeetCode solutions
 | [2367-number-of-arithmetic-triplets](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -98,6 +99,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -279,6 +281,7 @@ My LeetCode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shivam-24BAI70214/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
